@@ -1,4 +1,4 @@
-#### Here are my study notes (Only my own learning record)
+#### Only my own learning record
 
 * **Catalogue**
   * Machine Learning
