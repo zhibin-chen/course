@@ -2,4 +2,5 @@
 
 * **Catalogue**
   * Machine Learning
+  * Data Structures and Algorithms
 
