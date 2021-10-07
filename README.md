@@ -6,4 +6,5 @@
   * 算法设计与分析过程（Algorithm Design and Analysis Process）
   * 机器人运动（Robot Motion）
   * 线性代数（Linear Algebra）
+  * 微积分（Calculus）
 
