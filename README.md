@@ -7,4 +7,5 @@
   * 机器人运动（Robot Motion）
   * 线性代数（Linear Algebra）
   * 微积分（Calculus）
+  * 数值计算-Matlab（Applications of Matlab in Engineering）
 
